@@ -5,11 +5,12 @@ Answer: 1128/49 = 23.020
 
 '''
 
-print('Are you healthy? Welcome to the BMI calculator')
+print('Welcome to your BMI calculator')
 weight= int(input('Enter your weight: '))
 height = int(input('Enter your height: '))
 
-bmi = (705*weight)/height**2
+
+bmi = (705*weight)/height**2 .   # this is BMI metric 
 bmi = int(bmi)
 print('Your bmi is: ', bmi)
 
