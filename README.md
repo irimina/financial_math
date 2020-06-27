@@ -1,1 +1,1 @@
-# math_book
+# financial math
